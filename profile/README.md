@@ -1,4 +1,4 @@
-[![TheJob](https://github.com/ai-chain-labs/.github/blob/main/20251229-213158.png]([https://github.com/the-job-org](https://github.com/ai-chain-labs))
+[![TheJob](https://github.com/ai-chain-labs/.github/blob/main/20251229-213158.png]([https://github.com/the-job-org](https://github.com/ai-chain-labs)
 
 # The Job 社区，连接企业与人才的桥梁
 
