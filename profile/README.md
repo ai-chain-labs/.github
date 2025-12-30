@@ -1,6 +1,7 @@
-[![TheJob](https://github.com/ai-chain-labs/.github/blob/main/20251229-213158.png]([https://github.com/the-job-org](https://github.com/ai-chain-labs)
+[![AIChain](https://github.com/ai-chain-labs/.github/blob/main/20251229-213158.png)](https://github.com/ai-chain-labs)
 
-# The Job 社区，连接企业与人才的桥梁
+
+# AI Chain 社区，聚焦 AI × Web3 的工程化落地
 
 聚焦 AI × Web3 的工程化落地, 探索人工智能与区块链基础设施、应用层与用户体验的深度融合，打造可落地、可扩展、可持续的下一代 AI 和 Web3 产品
 
